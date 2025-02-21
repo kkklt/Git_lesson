@@ -1,6 +1,7 @@
 my first line!
 my second line!
 my third line!
-mt fourth line!
-mt fifth line!
-mt sixth line!
+my fourth line!
+my fifth line!
+my sixth line!
+my seventh line!
