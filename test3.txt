@@ -1,6 +1,6 @@
 쿠폰 브랜치에서 수정함!
 마스터 브랜치에서 수정함!
-my third line!
+마스터 브랜치에서 수정함!
 my fourth line!
 my fifth line!
 my sixth line!
