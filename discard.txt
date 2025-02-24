@@ -1,0 +1,5 @@
+we need to remove bad inventory
+
+i think 5~45% is best range!
+we made discard func!
+finish.
