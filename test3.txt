@@ -1,4 +1,4 @@
-my first line!
+쿠폰 브랜치에서 수정함!
 my second line!
 my third line!
 my fourth line!
@@ -6,3 +6,6 @@ my fifth line!
 my sixth line!
 my seventh line!
 test line
+
+oh, we need coupon func!
+for safety, make coupon branch and switch branch
