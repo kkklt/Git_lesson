@@ -1,6 +1,11 @@
 쿠폰 브랜치에서 수정함!
+<<<<<<< HEAD
 마스터 브랜치에서 수정함!
 마스터 브랜치에서 수정함!
+=======
+discard 브랜치에서 수정함.
+my third line!
+>>>>>>> 0d11909 (rebase 공부용)
 my fourth line!
 my fifth line!
 my sixth line!
